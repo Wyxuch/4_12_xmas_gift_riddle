@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wyxuch.github.io/4_12_xmas_gift_riddle",
+  "homepage": "https://Wyxuch.github.io/4_12_xmas_gift_riddle",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
