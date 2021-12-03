@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xmas-code/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/xmas-code/static/js/main.a31a76ce.chunk.js",
+    "main.js.map": "/xmas-code/static/js/main.a31a76ce.chunk.js.map",
+    "runtime-main.js": "/xmas-code/static/js/runtime-main.2bf5493e.js",
+    "runtime-main.js.map": "/xmas-code/static/js/runtime-main.2bf5493e.js.map",
+    "static/js/2.d0eb047a.chunk.js": "/xmas-code/static/js/2.d0eb047a.chunk.js",
+    "static/js/2.d0eb047a.chunk.js.map": "/xmas-code/static/js/2.d0eb047a.chunk.js.map",
+    "static/js/3.a6e4d959.chunk.js": "/xmas-code/static/js/3.a6e4d959.chunk.js",
+    "static/js/3.a6e4d959.chunk.js.map": "/xmas-code/static/js/3.a6e4d959.chunk.js.map",
+    "index.html": "/xmas-code/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/xmas-code/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d0eb047a.chunk.js.LICENSE.txt": "/xmas-code/static/js/2.d0eb047a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/xmas-code/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bf5493e.js",
+    "static/js/2.d0eb047a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a31a76ce.chunk.js"
+  ]
+}
