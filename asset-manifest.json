@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/xmas-code/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/xmas-code/static/js/main.a31a76ce.chunk.js",
-    "main.js.map": "/xmas-code/static/js/main.a31a76ce.chunk.js.map",
-    "runtime-main.js": "/xmas-code/static/js/runtime-main.2bf5493e.js",
-    "runtime-main.js.map": "/xmas-code/static/js/runtime-main.2bf5493e.js.map",
-    "static/js/2.d0eb047a.chunk.js": "/xmas-code/static/js/2.d0eb047a.chunk.js",
-    "static/js/2.d0eb047a.chunk.js.map": "/xmas-code/static/js/2.d0eb047a.chunk.js.map",
-    "static/js/3.a6e4d959.chunk.js": "/xmas-code/static/js/3.a6e4d959.chunk.js",
-    "static/js/3.a6e4d959.chunk.js.map": "/xmas-code/static/js/3.a6e4d959.chunk.js.map",
-    "index.html": "/xmas-code/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/xmas-code/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d0eb047a.chunk.js.LICENSE.txt": "/xmas-code/static/js/2.d0eb047a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/xmas-code/static/media/logo.6ce24c58.svg"
+    "main.css": "/4_12_xmas_gift_riddle/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/4_12_xmas_gift_riddle/static/js/main.a31a76ce.chunk.js",
+    "main.js.map": "/4_12_xmas_gift_riddle/static/js/main.a31a76ce.chunk.js.map",
+    "runtime-main.js": "/4_12_xmas_gift_riddle/static/js/runtime-main.fbc089ee.js",
+    "runtime-main.js.map": "/4_12_xmas_gift_riddle/static/js/runtime-main.fbc089ee.js.map",
+    "static/js/2.d0eb047a.chunk.js": "/4_12_xmas_gift_riddle/static/js/2.d0eb047a.chunk.js",
+    "static/js/2.d0eb047a.chunk.js.map": "/4_12_xmas_gift_riddle/static/js/2.d0eb047a.chunk.js.map",
+    "static/js/3.a6e4d959.chunk.js": "/4_12_xmas_gift_riddle/static/js/3.a6e4d959.chunk.js",
+    "static/js/3.a6e4d959.chunk.js.map": "/4_12_xmas_gift_riddle/static/js/3.a6e4d959.chunk.js.map",
+    "index.html": "/4_12_xmas_gift_riddle/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/4_12_xmas_gift_riddle/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d0eb047a.chunk.js.LICENSE.txt": "/4_12_xmas_gift_riddle/static/js/2.d0eb047a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/4_12_xmas_gift_riddle/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2bf5493e.js",
+    "static/js/runtime-main.fbc089ee.js",
     "static/js/2.d0eb047a.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.a31a76ce.chunk.js"
