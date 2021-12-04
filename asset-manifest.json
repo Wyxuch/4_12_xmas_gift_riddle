@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/4_12_xmas_gift_riddle/static/css/main.bbb1b650.chunk.css",
-    "main.js": "/4_12_xmas_gift_riddle/static/js/main.b25f1616.chunk.js",
-    "main.js.map": "/4_12_xmas_gift_riddle/static/js/main.b25f1616.chunk.js.map",
+    "main.css": "/4_12_xmas_gift_riddle/static/css/main.97ebffdd.chunk.css",
+    "main.js": "/4_12_xmas_gift_riddle/static/js/main.46104076.chunk.js",
+    "main.js.map": "/4_12_xmas_gift_riddle/static/js/main.46104076.chunk.js.map",
     "runtime-main.js": "/4_12_xmas_gift_riddle/static/js/runtime-main.c29b4a6b.js",
     "runtime-main.js.map": "/4_12_xmas_gift_riddle/static/js/runtime-main.c29b4a6b.js.map",
     "static/js/2.379216c7.chunk.js": "/4_12_xmas_gift_riddle/static/js/2.379216c7.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.8f496520.chunk.js": "/4_12_xmas_gift_riddle/static/js/3.8f496520.chunk.js",
     "static/js/3.8f496520.chunk.js.map": "/4_12_xmas_gift_riddle/static/js/3.8f496520.chunk.js.map",
     "index.html": "/4_12_xmas_gift_riddle/index.html",
-    "static/css/main.bbb1b650.chunk.css.map": "/4_12_xmas_gift_riddle/static/css/main.bbb1b650.chunk.css.map",
+    "static/css/main.97ebffdd.chunk.css.map": "/4_12_xmas_gift_riddle/static/css/main.97ebffdd.chunk.css.map",
     "static/js/2.379216c7.chunk.js.LICENSE.txt": "/4_12_xmas_gift_riddle/static/js/2.379216c7.chunk.js.LICENSE.txt",
     "static/media/bg.1129ebf2.jpg": "/4_12_xmas_gift_riddle/static/media/bg.1129ebf2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c29b4a6b.js",
     "static/js/2.379216c7.chunk.js",
-    "static/css/main.bbb1b650.chunk.css",
-    "static/js/main.b25f1616.chunk.js"
+    "static/css/main.97ebffdd.chunk.css",
+    "static/js/main.46104076.chunk.js"
   ]
 }
