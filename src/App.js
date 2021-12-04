@@ -1,6 +1,7 @@
 import './App.css';
 import bg from "./bg.jpg";
 import { useState } from "react";
+import rick from './rick-roll-rick-ashley.gif'
 
 function App() {
   const QA = [
@@ -59,6 +60,7 @@ function App() {
             )}
             {finished && (
                 <>
+                    <img src={rick}/>
                     <h2>Gratki! Pełny kod to:</h2>
                     <h1>832</h1>
                 </>
