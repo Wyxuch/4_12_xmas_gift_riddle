@@ -45,7 +45,7 @@ function App() {
         <div id='main'>
             {!started && (
                 <>
-                    <h2>Odpowiedz na pytania i zgadij swój kod do sejfu!</h2>
+                    <h2>Odpowiedz na pytania i zgadnij swój kod do sejfu!</h2>
                     <button onClick={() => setStarted(true)}>Start</button>
                 </>
             )}
