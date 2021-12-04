@@ -60,7 +60,7 @@ function App() {
             )}
             {finished && (
                 <>
-                    <img src={rick}/>
+                    <img src={rick} alt={'rickRoll'}/>
                     <h2>Gratki! Pełny kod to:</h2>
                     <h1>832</h1>
                 </>
